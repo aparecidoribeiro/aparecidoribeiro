@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Aparecido Ribeiro
 
-**`Desenvolvedor Fron-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Aparecido Ribeiro, tenho 20 anos e atualmente curso Bacharelado 
 em Sistemas de Informação na UNESA. Tenho foco no desenvolvimento Front-End 
